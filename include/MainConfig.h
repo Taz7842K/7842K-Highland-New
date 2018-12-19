@@ -1,6 +1,6 @@
 #include "main.h"
 
-extern std::shared_ptr<ChassisControllerFactory> mecBase;
+
 
 extern pros::Controller HIDMain;
 
